@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/async-data", {data:[{}],fetch:{},mutations:void 0});
